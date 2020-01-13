@@ -1,4 +1,4 @@
-# Convert playlist from any streaming service (Spotify, Google, etc.) to Apple Music
+# Migrate playlist from any streaming service (Spotify, Google, etc.) to Apple Music
 
 ## Step 1. Create a text file with links to songs in _your original_ service.
 In case of Spotify it can be done by selecting all songs in playlist in _the desktop app_ and copying/pasting them to a plain text file. Save the file with a meaningful name (it will become your Apple Music playlist name) to iCloud, Dropbox, or whatever you use to sync files between desktop and iOS.
