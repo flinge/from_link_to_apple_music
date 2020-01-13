@@ -4,7 +4,7 @@
 In case of Spotify it can be done by selecting all songs in playlist in _the desktop app_ and copying/pasting them to a plain text file. Save the file with a meaningful name (it will become your Apple Music playlist name) to iCloud, Dropbox, or whatever you use to sync files between desktop and iOS.
 
 ## Step 2. Get the shortcut.
-Install [From link to apple music]() shortcut on your iOS device.
+Install [From link to apple music](https://www.icloud.com/shortcuts/d0dcbe54f0614cf78b453ae563d297d3) shortcut on your iOS device.
 
 ## Step 3. Run the shortcut.
 It will ask you for the file. Point it to the file you've saved. The shortcut will read links from the file line by line and try to add the song to Apple Music playlist named same as the file (it will create the playlist if it does not exist). 
